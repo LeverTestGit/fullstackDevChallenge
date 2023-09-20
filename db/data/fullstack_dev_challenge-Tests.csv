@@ -1,3 +1,5 @@
 ID,createdAt,createdBy,modifiedAt,modifiedBy,title,description
-7392cd0e-12d2-2e3b-b342-e19571a524ef,2023-09-06T22:28,Anon,2023-09-06T22:28,Anon,Name is X,The name should be X
-ac037d5d-6854-4a2e-913b-09791c88a5ad,2023-09-06T22:28,Anon,2023-09-06T22:28,Anon,Age is 20,The age should be 20
+1392cd0e-12d2-2e3b-b342-e19571a524ef,2023-09-06T22:28,Anonymous,2023-09-06T22:28,Anonymous,Developer Challenge One,Week One - Project Set-up and Database Modeling.
+2s284b2e-7432-5e2a-793d-09791c88a5ad,2023-09-06T22:29,Anonymous,2023-09-06T22:29,Anonymous,Developer Challenge Two,Week Two - Back-end Development - API Exposure.
+3c037d5d-6854-4a2e-913b-09791c88a5ad,2023-09-06T22:30,Anonymous,2023-09-06T22:30,Anonymous,Developer Challenge Three,Week Three - Front-end Development with SAP Fiori elements.
+4192cd2e-7432-2e3b-793d-a84541b768ad,2023-09-06T22:31,Anonymous,2023-09-06T22:31,Anonymous,Developer Challenge Four,Week Four - Integration of Back-end and Front-end.
